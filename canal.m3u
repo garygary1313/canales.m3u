@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,San vito
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,88 stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,canal 4
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_720.m3u8
+#EXTINF:-1,canal 11
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
+#EXTINF:-1,canal 6 hd
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8???=php=-.http://latinacr.com.es/akl/hlsplayerlive=playlistextim3uplaylist.m3u8
+#EXTINF:-1, canal 6 full hd
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8?=php=-.httptv.latinacr.com.es/akl/hls-playlist.m3u8
+#EXTINF:-1,canal 7
+https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/playlist.m3u8???httptv.latinacr.com.es/akl/hls-playlist.m3u8
+#EXTINF:-1,telemetro
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/838.m3u8#/=??=php=-http://tv.latinacr.com.es/=.online/morbido.php/playlist.=?.VDR.=?=&t=t.m3u8
+#EXTINF:-1,tvn
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?http://tv.latinacr.com.es/hlsplayerlive=playlistextim3uplaylist.m3u8
+#EXTINF:-1,futv
+http://45.228.232.204:16000/play/a06q/index.m3u8
+#EXTINF:-1,TLC
+http://181.78.22.214:8000/play/a01u
+#EXTINF:-1,Canal Estrellas
+http://181.78.22.214:8000/play/a026
+#EXTINF:-1,Discovery Channel
+http://181.78.22.214:8000/play/a00u
+#EXTINF:-1,History Channel
+http://181.78.22.214:8000/play/a004
+#EXTINF:-1,HomeandHealth
+http://181.78.22.214:8000/play/a015
+#EXTINF:-1,MTV
+http://181.78.22.214:8000/play/a008
+#EXTINF:-1,Telemundo
+http://181.78.22.214:8000/play/a01t
+#EXTINF:-1,Telenovela
+http://181.78.22.214:8000/play/a027
+#EXTINF:-1,AE Mundo
+http://181.78.22.214:8000/play/a011
+#EXTINF:-1,Cartoon Network
+http://181.78.22.214:8000/play/a00d
+#EXTINF:-1,Discovery Kids
+http://181.78.22.214:8000/play/a00g
+#EXTINF:-1,Disney Jr
+http://181.78.22.214:8000/play/a00r
+#EXTINF:-1,Disney Channel
+http://181.78.22.214:8000/play/a00t
+#EXTINF:-1,Nickelodeon
+http://181.78.22.214:8000/play/a001
